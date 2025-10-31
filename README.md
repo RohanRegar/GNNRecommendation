@@ -170,19 +170,3 @@ The GraphSAGE model achieves competitive performance with:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
--   Report bugs
--   Suggest new features
--   Improve documentation
--   Add new GNN architectures
-
----
-
-## 🙏 Acknowledgments
-
--   Amazon Product Review Dataset (McAuley et al.)
--   PyTorch Geometric community
--   Sentence Transformers project
