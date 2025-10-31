@@ -86,8 +86,7 @@ This project implements a state-of-the-art recommendation system using heterogen
 1. **Clone the repository**
 
     ```bash
-    git clone <your-repo-url>
-    cd amazonrecommendation
+    git clone (https://github.com/RohanRegar/GNNRecommendation.git
     ```
 
 2. **Create virtual environment** (recommended)
