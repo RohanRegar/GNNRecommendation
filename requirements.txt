@@ -1,0 +1,38 @@
+# Core Scientific Computing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Deep Learning - PyTorch
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Graph Neural Networks
+torch-geometric>=2.4.0
+
+# NLP and Embeddings
+sentence-transformers>=2.2.0
+transformers>=4.33.0
+tokenizers>=0.13.0
+
+# Model Explainability
+captum>=0.7.0
+
+# Graph Processing
+networkx>=3.0
+
+# Data Visualization
+matplotlib>=3.7.0
+
+# Progress Bars
+tqdm>=4.65.0
+
+# Utilities
+requests>=2.31.0
+
+# Note: If using Python 3.12+, you may encounter TensorFlow compatibility issues.
+# Python 3.9-3.11 is recommended for full compatibility.
+# TensorFlow is NOT required for this project - only PyTorch is used.
