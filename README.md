@@ -75,11 +75,6 @@ This project implements a state-of-the-art recommendation system using heterogen
 
 ## 🚀 Setup and Usage
 
-### Requirements
-
--   **Python 3.9 - 3.11** (Python 3.12+ not recommended due to TensorFlow compatibility issues)
--   CUDA-capable GPU (recommended for training)
--   8GB+ RAM
 
 ### Installation Steps
 
